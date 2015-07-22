@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrawerLayout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Main Activity-->
+    <string name="opendrawer">Open</string>
+    <string name="closedrawer">Close</string>
+</resources>
